@@ -1,0 +1,41 @@
+{
+    "users": [
+                {
+                    "img": "./assets/members/Fred.png",
+                    "name": "Fred",
+                    "description": "Sometimes he goes outside and shouts 'You can leave but not hide!'"
+                },
+                {
+                    "img": "./assets/members/Tysons wife.png",
+                    "name": "Likiya Spicer",
+                    "description": "You should avoid her, because she is boxer and her husband is Tyson at the same time"
+                },
+                {
+                    "img": "./assets/members/malahov.png",
+                    "name": "Maxim",
+                    "description": "I hate this motherfucker. When I fell asleep I remembered his song, 'Распродажа на Aliexpress'"
+                }
+   ],
+   "newItems": [
+    {
+        "img": "./assets/png/phone__first-group.png",
+        "title": "Walnut MagSafe Stand",
+        "price": 120
+    },
+    {
+        "img": "./assets/png/loptop__first-group.png",
+        "title": "Walnut Laptop Rise",
+        "price": 150
+    },
+    {
+        "img": "./assets/png/table__second-group.png",
+        "title": "Walnut iPad Stand",
+        "price": 80
+    },
+    {
+        "img": "./assets/png/monitor__second-group.png",
+        "title": "Walnut Monitor Stand",
+        "price": 100
+    }
+   ]
+}
